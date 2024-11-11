@@ -3,7 +3,7 @@
 <html lang="en">
 <?php include_once  $config['views_path'] . 'head.php'; ?>
 
-
+ 
 <body class="sidebar-mini" style="height: auto;">
 
 <!-- Site wrapper -->
